@@ -1,17 +1,17 @@
 # 🎯 Omudia Goal (`@omudia/goal`)
-### High-Precision Campaign Milestone Tracker & Automated KPI Completion Engine
+### High-Precision Campaign Milestone Tracker & Automated KPI Completion Engine (Next-Gen SMM Panel Module)
 
 Part of the **[Omudia Ecosystem](https://omudia.com)**.
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)](https://omudia.com)
-[![Ecosystem](https://img.shields.io/badge/Ecosystem-Omudia-7C3AED.svg)](https://github.com/egopinido)
+[![Status](https://img.shields.io/badge/Status-Coming%20Soon%20%7C%20قريباً-F59E0B.svg)](https://omudia.com)
+[![Ecosystem](https://img.shields.io/badge/Ecosystem-Omudia%20SMM%20Panel-7C3AED.svg)](https://github.com/egopinido)
 
 ---
 
 ## 📖 Overview
 
-`@omudia/goal` is the quantitative milestone tracker and completion predictor powering the Omudia digital growth engine. It monitors real-time metric increments across 16+ social platforms (Instagram, TikTok, Telegram, YouTube, etc.), calculates progress rates, estimates realistic delivery windows (ETAs), and dispatches lifecycle events when milestones (25%, 50%, 75%, 100%) are satisfied.
+`@omudia/goal` is the quantitative milestone tracker and completion predictor powering the Omudia **Next-Generation SMM Panel & Digital Growth Engine**. It monitors real-time metric increments across 16+ social platforms (Instagram, TikTok, Telegram, YouTube, etc.), calculates progress rates, estimates realistic delivery windows (ETAs), and dispatches lifecycle events when milestones (25%, 50%, 75%, 100%) are satisfied.
 
 ## ✨ Key Capabilities
 
@@ -63,4 +63,3 @@ console.log('Estimated completion:', eta.estimatedCompletionDate);
 ---
 
 © 2026 Omudia Ecosystem.
-
