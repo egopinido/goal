@@ -1,0 +1,19 @@
+{
+  "name": "@omudia/goal",
+  "version": "1.0.0",
+  "description": "Omudia Goal Engine - Target KPI Tracker, Milestone Progression & Campaign Target Engine for Social Growth",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/goal.test.js"
+  },
+  "keywords": [
+    "omudia",
+    "growth-engine",
+    "kpi-tracker",
+    "social-growth",
+    "automation",
+    "milestones"
+  ],
+  "author": "Omudia Ecosystem (egopinido)",
+  "license": "Apache-2.0"
+}
