@@ -27,3 +27,4 @@ assert.strictEqual(finalSummary.isCompleted, true);
 assert.strictEqual(finalSummary.progressPercent, 100);
 
 console.log('Omudia Goal test passed with 100% assertions valid.');
+
